@@ -1,1 +1,1 @@
-FROM ubuntu:jammy - slim
+FROM ubuntu:jammy - minimal
