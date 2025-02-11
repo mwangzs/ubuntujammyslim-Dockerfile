@@ -1,1 +1,1 @@
-FROM ubuntu:focal-minimal
+FROM ubuntu:focal
