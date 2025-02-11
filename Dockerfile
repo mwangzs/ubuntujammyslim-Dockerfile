@@ -1,1 +1,1 @@
-FROM ubuntu-minimal:jammy
+FROM ubuntu:focal-minimal
