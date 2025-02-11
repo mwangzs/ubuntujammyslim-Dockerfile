@@ -1,1 +1,1 @@
-FROM ubuntu:jammy - minimal
+FROM ubuntu-minimal:jammy
